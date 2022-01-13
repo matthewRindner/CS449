@@ -1,0 +1,6 @@
+This password change command has been disabled.  To change your password,
+please visit http://accounts.pitt.edu and log on using your University
+Computer Account and current password.  You can then change your password by
+clicking the "Change Account Password" link and following the instructions.
+Please contact the Technology Help Desk at 412 624-HELP [4357] for
+assistance, if needed.

@@ -1,0 +1,15 @@
+/lib/ld-linux.so.2
+__gmon_start__
+libc.so.6
+_IO_stdin_used
+puts
+printf
+getchar
+__libc_start_main
+GLIBC_2.0
+PTRh
+[^_]
+Congratulations!
+Unlocked with passphrase %s           
+Sorry! Not correct!
+Yz?C7s}.7+
